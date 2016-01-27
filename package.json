@@ -6,8 +6,12 @@
   "scripts": {
     "test": "node_modules/.bin/tape test"
   },
-  "author": "",
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
   "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/chrisinajar/american-sounding-names.git"
+  },
   "dependencies": {
     "random-item": "^1.0.0"
   },
