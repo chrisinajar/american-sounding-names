@@ -1,6 +1,6 @@
 {
   "name": "american-sounding-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "author": "Chris Vickery <chrisinajar@gmail.com>",
   "license": "ISC",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/chrisinajar/american-sounding-names.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisinajar/american-sounding-names.git"
   },
   "dependencies": {
     "random-item": "^1.0.0"
