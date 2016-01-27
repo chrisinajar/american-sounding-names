@@ -1,5 +1,5 @@
 # American Sounding Names
-Ever needed to generate a bunch of names but didn't want to fill your system with "Test User 2851"... American Sounding Names!!
+Ever needed to generate a bunch of names but didn't want to fill your system with `Test User 2851`?
 
 ## Installation
 `npm install american-sounding-names`
