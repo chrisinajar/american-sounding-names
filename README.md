@@ -39,5 +39,14 @@ Return a random american sounding last name.
 * `options` does nothing lol
 
 
+## Contributing
+Pull requests are more than welcome, and will almost always be merged and responded to with great sarcasm.
+
+There are only 3 rules:
+ * Reasonable belief than a person with American citizenship with that name exists, will exist, or has existed at any time.
+ * Type it out with the US keyboard layout using the English alphabet so that uneducated Americans can sound out the sweetness of freedom.
+ * No removing names, America is a melting pot you judgemental bitch.
+
+
 ## Testing
 `npm run test`
