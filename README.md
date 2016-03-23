@@ -34,7 +34,7 @@ Parameters:
   * `gender`: (string) 'male' or 'female' to limit the result to one or the other
   
 #### `.last([options])`
-Return a random american sounding first name.
+Return a random american sounding last name.
 
 * `options` does nothing lol
 
