@@ -1,9 +1,9 @@
 var randomItem = require('random-item');
 
-module.exports = function(names) {
+module.exports = function (names) {
   return getLast;
 
-  function getLast(options) {
+  function getLast (options) {
     return randomItem(names);
   }
 };
