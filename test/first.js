@@ -1,12 +1,12 @@
 var test = require('tape');
 var data = {
-  male: ["John", "Chris"],
-  female: ["Kayla", "Jaclyn"]
+  male: ['John', 'Chris'],
+  female: ['Kayla', 'Jaclyn']
 };
 var first = require('../first')(data);
 
-test('first names', function(t) {
-  t.test('basic functionality', function(t) {
+test('first names', function (t) {
+  t.test('basic functionality', function (t) {
     t.plan(2);
     t.equal(typeof first(), 'string', 'returns a string');
 
@@ -21,7 +21,7 @@ test('first names', function(t) {
     t.notEqual(name, name2, 'names are random');
   });
 
-  t.test('gender selection', function(t) {
+  t.test('gender selection', function (t) {
     t.plan(2);
 
     var maleName = first({
@@ -31,7 +31,7 @@ test('first names', function(t) {
       gender: 'female'
     });
 
-    t.assert(data.male.indexOf(maleName) > -1, "male names return male names");
-    t.assert(data.female.indexOf(femaleName) > -1, "female names return female names");
+    t.assert(data.male.indexOf(maleName) > -1, 'male names return male names');
+    t.assert(data.female.indexOf(femaleName) > -1, 'female names return female names');
   });
 });

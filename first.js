@@ -1,9 +1,9 @@
 var randomItem = require('random-item');
 
-module.exports = function(names) {
+module.exports = function (names) {
   return getFirst;
 
-  function getFirst(options) {
+  function getFirst (options) {
     var allowMale = true;
     var allowFemale = true;
     var nameOptions = [];
@@ -18,7 +18,6 @@ module.exports = function(names) {
 
     if (options.gender === 'male') {
       allowFemale = false;
-
     } else if (options.gender === 'female') {
       allowMale = false;
     }
