@@ -1,4 +1,4 @@
-# American Sounding Names
+# American Sounding Names [![Circle CI](https://circleci.com/gh/chrisinajar/american-sounding-names.svg?style=svg)](https://circleci.com/gh/chrisinajar/american-sounding-names)
 Ever needed to generate a bunch of names but didn't want to fill your system with `Test User 2851`?
 
 ## Installation
