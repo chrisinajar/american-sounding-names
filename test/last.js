@@ -1,12 +1,12 @@
 var test = require('tape');
 var data = [
-  "Vickery",
-  "Wilbanks"
+  'Vickery',
+  'Wilbanks'
 ];
 var last = require('../last')(data);
 
-test('last names', function(t) {
-  t.test('basic functionality', function(t) {
+test('last names', function (t) {
+  t.test('basic functionality', function (t) {
     t.plan(2);
     t.equal(typeof last(), 'string', 'returns a string');
 

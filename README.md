@@ -1,4 +1,4 @@
-# American Sounding Names
+# American Sounding Names [![Circle CI](https://circleci.com/gh/chrisinajar/american-sounding-names.svg?style=svg)](https://circleci.com/gh/chrisinajar/american-sounding-names)
 Ever needed to generate a bunch of names but didn't want to fill your system with `Test User 2851`?
 
 ## Installation
@@ -37,6 +37,15 @@ Parameters:
 Return a random american sounding last name.
 
 * `options` does nothing lol
+
+
+## Contributing
+Pull requests are more than welcome, and will almost always be merged and responded to with great sarcasm.
+
+There are only 3 rules:
+ * Reasonable belief than a person with American citizenship with that name exists, will exist, or has existed at any time.
+ * Type it out with the US keyboard layout using the English alphabet so that uneducated Americans can sound out the sweetness of freedom.
+ * No removing names, America is a melting pot you judgemental bitch.
 
 
 ## Testing

@@ -1,6 +1,6 @@
 {
 	"male": [
-    "Talon",
+		"Talon",
 		"Michael",
 		"Christopher",
 		"Matthew",
@@ -105,7 +105,17 @@
 		"Ahmed",
 		"Carlos",
 		"Adnan",
-		"Farid"
+		"Farid",
+		"Kanye",
+		"Saint",
+		"Rob",
+		"Dirk",
+		"Kirk",
+		"Kirt",
+		"Bert",
+		"Herb",
+		"Bernie",
+		"Walter"
 	],
 	"female": [
 		"Jessica",
@@ -207,6 +217,18 @@
 		"Patricia",
 		"Diana",
 		"Gabrielle",
-		"Shelby"
+		"Shelby",
+		"North",
+		"Kim",
+		"Kriss",
+		"Caitlyn",
+		"Khloé",
+		"Kendall",
+		"Kylie",
+		"Sally",
+		"Suzy",
+		"Billy",
+		"Thurgood",
+		"Thurman"
 	]
 }
